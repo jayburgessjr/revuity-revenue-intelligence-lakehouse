@@ -1,0 +1,25 @@
+{
+  "name": "revuity_revenue_workflow_demo",
+  "tasks": [
+    {
+      "task_key": "ingest_crm",
+      "notebook_path": "databricks/notebooks/ingest_crm.py"
+    },
+    {
+      "task_key": "ingest_billing",
+      "notebook_path": "databricks/notebooks/ingest_billing.py"
+    },
+    {
+      "task_key": "ingest_ads",
+      "notebook_path": "databricks/notebooks/ingest_ads.py"
+    },
+    {
+      "task_key": "transform_silver",
+      "notebook_path": "databricks/notebooks/transform_silver.py"
+    },
+    {
+      "task_key": "transform_gold",
+      "notebook_path": "databricks/notebooks/transform_gold.py"
+    }
+  ]
+}

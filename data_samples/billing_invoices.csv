@@ -1,0 +1,4 @@
+invoice_id,customer_id,customer_name,invoice_date,invoice_amount
+I1,C1,Acme Corp,2025-01-01,1200
+I2,C1,Acme Corp,2025-02-01,1200
+I3,C2,Globex Inc,2025-01-15,800
