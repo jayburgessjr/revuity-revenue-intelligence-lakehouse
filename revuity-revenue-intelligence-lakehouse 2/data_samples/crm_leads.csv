@@ -1,0 +1,4 @@
+lead_id,first_name,last_name,email,created_at,source
+L1,Alice,Nguyen,alice@example.com,2025-01-02,paid_search
+L2,Bob,Garcia,bob@example.com,2025-01-03,referral
+L3,Carla,Patel,carla@example.com,2025-01-05,organic
